@@ -1,0 +1,40 @@
+{
+  "file": "src/content/product/laptop-stand.md",
+  "name": "product",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "name": "title",
+      "label": "Title",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "price",
+      "label": "Price",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "image",
+      "label": "Image",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "description",
+      "label": "Description",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    }
+  ]
+}
